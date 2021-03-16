@@ -1,6 +1,6 @@
 import React from "react";
-import "../styles/Aboutcard.css"
-import headshot from "./headshot.png"
+import "../styles/Aboutcard.css";
+import headshot from "./images/headshot.png";
 
 
 function Aboutcard() {

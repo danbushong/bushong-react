@@ -1,13 +1,23 @@
 import React from "react";
-import Pageconstant from "./components/Pageconstant";
-import Aboutcard from "./components/Aboutcard";
+import { BrowserRouter as Router, Route } from "react-router-dom";
+import Home from "./pages/Home"
+import Contact from "./pages/Contact"
+import Portfolio from "./pages/Portfolio"
 
 function App(){
     return (
-        <div>
-            <Pageconstant/>
-            <Aboutcard />
-        </div>
+        <Router>
+            <div>
+                
+                <Route exact path="/" component={Home} />
+                <Route exact path="/about" component={Home} />
+                <Route exact path="/contact" component={Contact} />
+                <Route exact path="/portfolio" component={Portfolio} />
+            </div>
+            
+
+        </Router>
+        
     )
 }
 export default App
