@@ -1,7 +1,7 @@
 import React from "react";
 import "../styles/Portfolioitems.css";
 import deedDone from "./images/deedDone.jpg";
-import gameFinder from "./images/GameFinder.png";
+import gameFinder from "./images/gameFinder.png";
 import wdScheduler from "./images/workDaySchedulerScreenshot.png";
 import burgerpic from "./images/bushongBurgers.jpg";
 import passwordgenpic from "./images/Password_Generation_Screenshot.png";
