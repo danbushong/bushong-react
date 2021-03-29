@@ -6,6 +6,7 @@ import wdScheduler from "./images/workDaySchedulerScreenshot.png";
 import burgerpic from "./images/bushongBurgers.jpg";
 import passwordgenpic from "./images/Password_Generation_Screenshot.png";
 import budgetpic from "./images/budget.jpg"
+import nccss from "./images/nccss.jpg"
 
 
 
@@ -16,11 +17,16 @@ function Portfolioitems(){
     return (
 
         <div className="containerForRow">
-            <div className="headerForRow">
-                <h1>Here are some of the things that I have made. </h1>
-            </div>
+            
 
             <div className="portfolioBody">
+            <a href="https://novice-code-community.herokuapp.com/">
+                    <img alt="NCC app" src={nccss} width="400" height="300" class="thumbnail"></img>
+                </a>
+
+            <a href="https://danbushong.github.io/passwordGenerator/">
+                    <img alt="Password Generator" src={passwordgenpic} width="400" height="300" class="thumbnail"></img>
+                </a>
 
                 <a href="https://ballinwithabudget.herokuapp.com/">
                     <img alt="Budget tracking app" src={budgetpic} width="400" height="300" class="thumbnail"></img>
