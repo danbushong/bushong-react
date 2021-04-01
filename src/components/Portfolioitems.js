@@ -7,6 +7,7 @@ import burgerpic from "./images/bushongBurgers.jpg";
 import passwordgenpic from "./images/Password_Generation_Screenshot.png";
 import budgetpic from "./images/budget.jpg"
 import nccss from "./images/nccss.jpg"
+import almostveganimg from "./images/almostvegan.jpg"
 
 
 
@@ -20,6 +21,13 @@ function Portfolioitems(){
             
 
             <div className="portfolioBody">
+
+                                
+            <a href="https://almost-vegan.herokuapp.com/">
+                    <img alt="Almost Vegan app" src={almostveganimg} width="400" height="300" class="thumbnail"></img>
+                </a>
+
+
             <a href="https://novice-code-community.herokuapp.com/">
                     <img alt="NCC app" src={nccss} width="400" height="300" class="thumbnail"></img>
                 </a>
