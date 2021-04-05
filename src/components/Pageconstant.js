@@ -22,6 +22,10 @@ function Pageconstant() {
                             <Link to="/contact" className={window.location.pathname === "/contact" ? "nav-link active" : "nav-link"}>Contact</Link> 
                         </li>
 
+                        <li className="nav-item">
+                            <Link to="/talktoai" className={window.location.pathname === "/contact" ? "nav-link active" : "nav-link"}>TalktoAI</Link> 
+                        </li>
+
                     </ul>
                 </div>
 
