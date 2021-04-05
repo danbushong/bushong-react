@@ -10,7 +10,7 @@ function Contact() {
             <Pageconstant />
             
 
-            <div className="card-body">
+            <div className="card">
                 <h1>Contact</h1>
                 <p style={{color: "grey"}}>*pssstt... We all know that nobody actually uses contact forms. Just connect with me on LinkedIn, it's been fixed at the bottom of every page. </p>
                 <form>
@@ -31,7 +31,7 @@ function Contact() {
 
 
 
-                    <button type="submit" class="btn btn-primary">Submit</button>
+                    <button type="submit" className="btn btn-primary">Submit</button>
                 </form>
                 
             </div>

@@ -4,7 +4,7 @@ import "../styles/Pageconstant.css"
 
 function Pageconstant() {
     return (
-        <body className="body">
+        <div className="body">
             <nav className="navbar navbar-expand-lg navbar-light bg-light">
                 <Link className="navbar-brand" to="/"> Dan Bushong </Link>
                 <div>
@@ -30,7 +30,7 @@ function Pageconstant() {
                 <a href="https://www.linkedin.com/in/danbushong/"> Here!
                 </a>
             </footer>
-        </body>
+        </div>
     )
 }
 export default Pageconstant
