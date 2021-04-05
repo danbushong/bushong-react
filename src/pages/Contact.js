@@ -12,6 +12,7 @@ function Contact() {
 
             <div className="card-body">
                 <h1>Contact</h1>
+                <p style={{color: "grey"}}>*pssstt... We all know that nobody actually uses contact forms. Just connect with me on LinkedIn, it's been fixed at the bottom of every page. </p>
                 <form>
                     <div className="form-group">
                         <label for="exampleInputName">Name</label>
