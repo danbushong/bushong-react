@@ -4,12 +4,15 @@ import "../styles/TalktoAI.css";
 
 function TalktoAI() {
 
+
+
     return (
 
         <div>
             <Pageconstant />
             <div className= "container">
-                Have a chat with a freshly born AI
+                Wow your desk sure is messy!
+                
 
             
 
