@@ -23,7 +23,7 @@ function Portfolioitems() {
 
             <div className="portfolioBdy">
                 
-                <h1>Some of my projects</h1>
+                <h1>Some Of My Projects</h1>
 
                 <div className="aProject" >
                     <a href="https://almost-vegan.herokuapp.com/">

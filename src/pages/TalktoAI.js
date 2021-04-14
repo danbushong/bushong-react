@@ -11,7 +11,7 @@ function TalktoAI() {
     
     function handleClick() {
         
-        setSecretMessage("Ouch, stop poking me! (I am not a real AI)")
+        setSecretMessage("Ouch, stop poking me! (I am not a real AI)");
 
         
     }

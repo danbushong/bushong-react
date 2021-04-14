@@ -31,7 +31,7 @@ function Aboutcard() {
 
 
                             <p>
-                                Hi there! My name is Dan Bushong, welcome to my page. I live in Austin, TX, with my soon to be
+                                Hi there! My name is Dan Bushong, welcome to my page. I live in Austin, TX, with my
                                 wife Sophia. We first met in San Diego, and then moved to Texas together in October 2020. I
                                 enjoy Jiu Jitsu, hiking, watching mma, listening to audiobooks, and programming. With 2020 being
                                 as crazy as it was, I have been determined to pick up even more hobbies. One of my favorite
