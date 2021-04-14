@@ -4,14 +4,12 @@ import "../styles/TalktoAI.css";
 
 function TalktoAI() {
 
-    function onclick(){
+    
+    function CreateMessage() {
+        console.log("maybe")
+
         
-        return(
-
-            <div className="hidden message">Wow, your desk sure is messy! By the way, I am not a real AI.</div>
-        )
     }
-
 
 
     return (
@@ -19,9 +17,9 @@ function TalktoAI() {
         <div>
             <Pageconstant />
            
-            <button style={{margin: "auto"}}>Am I an AI</button>
+            <button style={{marginTop: "10%", marginLeft: "50%"}} onClick={CreateMessage}>Am I an AI?</button>
                 
-            <div className="hidden message">Wow, your desk sure is messy! By the way, I am not a real AI.</div>
+            
                 
 
             
