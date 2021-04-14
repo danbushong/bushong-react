@@ -4,20 +4,30 @@ import "../styles/TalktoAI.css";
 
 function TalktoAI() {
 
+    function onclick(){
+        
+        return(
+
+            <div className="hidden message">Wow, your desk sure is messy! By the way, I am not a real AI.</div>
+        )
+    }
+
 
 
     return (
 
         <div>
             <Pageconstant />
-            <div className= "container">
-                Wow your desk sure is messy!
+           
+            <button style={{margin: "auto"}}>Am I an AI</button>
+                
+            <div className="hidden message">Wow, your desk sure is messy! By the way, I am not a real AI.</div>
                 
 
             
 
 
-            </div>
+            
             
             
 
