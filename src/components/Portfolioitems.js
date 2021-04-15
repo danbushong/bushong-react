@@ -92,14 +92,7 @@ function Portfolioitems() {
 
                 </div>
 
-                <div className="aProject" >
-
-                    <a href="https://danbushong.github.io/passwordGenerator/">
-                        <img alt="Password Generator" src={passwordgenpic} width="100%" height="200px" className="thumbnail"></img>
-                        <div className="projectTitle">Password Gernerator</div>
-                    </a>
-
-                </div>
+                
 
                 <div className="aProject" >
 
