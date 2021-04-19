@@ -4,7 +4,7 @@ import deedDone from "./images/deedDone.jpg";
 import gameFinder from "./images/gameFinder.png";
 import wdScheduler from "./images/workDaySchedulerScreenshot.png";
 import burgerpic from "./images/bushongBurgers.jpg";
-import passwordgenpic from "./images/vPasswordGenerator.jpg";
+import passwordgenpic from "./images/vpasswordGenerator.jpg";
 import budgetpic from "./images/budget.jpg"
 import nccss from "./images/nccss.jpg"
 import almostveganimg from "./images/almostvegan.jpg"
