@@ -2,7 +2,7 @@ import React from "react";
 import "../styles/Portfolioitems.css";
 import deedDone from "./images/deedDone.jpg";
 import gameFinder from "./images/gameFinder.png";
-import wdScheduler from "./images/workDaySchedulerScreenshot.png";
+import wdScheduler from "./images/workdayScheduler.jpg";
 import burgerpic from "./images/bushongBurgers.jpg";
 import passwordgenpic from "./images/vpasswordGenerator.jpg";
 import budgetpic from "./images/budget.jpg"
