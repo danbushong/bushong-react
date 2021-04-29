@@ -25,7 +25,7 @@ function Aboutcard() {
 
 
 
-                            <img src={avatar} className="headshot" alt="headshot" />
+                            <img src={avatar}  style={{borderRadius: "100px"}}className="headshot" alt="headshot" />
 
                             
 
