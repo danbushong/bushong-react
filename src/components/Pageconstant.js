@@ -30,7 +30,7 @@ function Pageconstant() {
                 </div>
 
             </nav>
-            <footer className="footer">Thanks for stopping by my website! Connect with me on LinkedIn
+            <footer style={{backgroundColor: "white", zIndex: "4"}}className="footer">Thanks for stopping by my website! Connect with me on LinkedIn
                 <a href="https://www.linkedin.com/in/danbushong/"> Here!
                 </a>
             </footer>
