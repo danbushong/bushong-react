@@ -1,6 +1,7 @@
 import React from "react";
 import "../styles/Aboutcard.css";
 import headshot from "./images/headshot.png";
+import avatar from "./images/avatar.jpeg"
 
 
 function Aboutcard() {
@@ -24,14 +25,14 @@ function Aboutcard() {
 
 
 
-                            <img src={headshot} className="headshot" alt="headshot" />
+                            <img src={avatar} className="headshot" alt="headshot" />
 
                             
 
 
 
                             <p>
-                                Hi there! My name is Dan Bushong, welcome to my page. I live in Austin, TX, with my
+                                Hi! My name is Dan, welcome to my page. I live in Austin, TX, with my
                                 wife Sophia. We first met in San Diego, and then moved to Texas together in October 2020. I
                                 enjoy Jiu Jitsu, playing Oculus, watching mma, listening to audiobooks, and programming. With 2020 being
                                 as crazy as it was, I have been determined to pick up even more hobbies. One of my favorite
