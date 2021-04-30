@@ -117,17 +117,7 @@ function Portfolioitems() {
 
                 
 
-                <div className="aProject" >
-
-                    <a href="https://danbushong.github.io/funny/">
-                        <img alt="Scary" src={funny} width="100%" height="200px" className="thumbnail"></img>
-                        <div className="projectTitle">April Fools Prank. Feel free to use. It works best on desktop. </div>
-                        <a href="https://github.com/danbushong/funny">
-                            <img alt="github icon" src={githubicon} heigh="20%" width="20%" style={{float: "right"}}/>
-                        </a>
-                    </a>
-
-                </div>
+                
 
 
             </div>
