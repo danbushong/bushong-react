@@ -8,7 +8,6 @@ import passwordgenpic from "./images/vpasswordGenerator.jpg";
 import budgetpic from "./images/budget.jpg";
 import nccss from "./images/nccss.jpg";
 import almostveganimg from "./images/almostvegan.jpg";
-import funny from "./images/funny.jpg";
 import githubicon from "./images/githubicon.png";
 
 

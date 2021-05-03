@@ -39,7 +39,7 @@ function Aboutcard() {
                                 things is watching the process of how to get better at something. I am a firm believer that
                                 practice and hard work eventually overtake skill, and the best way to get great at anything is
                                 through constant practice.
-                        </p>
+                            </p>
 
                             <p>
                                 Professionally, I have had a lot of experience in many different fields in a couple different
