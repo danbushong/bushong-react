@@ -13,7 +13,8 @@ function Contact() {
             <div className="card">
                 <h1>Contact</h1>
                 <p style={{color: "grey"}}>*pssstt... We all know that nobody actually uses contact forms. Just connect with me on LinkedIn, it's been fixed at the bottom of every page. </p>
-                <p>Send me an email @ BushongDan@gmail.com to request my resume'</p>
+                <p>Send me an email @ BushongDan@gmail.com </p>
+                <a href="https://docs.google.com/document/d/e/2PACX-1vSvEhHQMiYBOu2hm4OF1_knBIyNyWweBRFcgWtniJ1v0LbXCxXGLNGgdIneRu4l7w/pub">Link To My Resume'</a>
                 <form>
                     <div className="form-group">
                         <label for="exampleInputName">Name</label>
