@@ -21,7 +21,8 @@ function Portfolioitems() {
 
             <div className="portfolioBdy">
                 
-                <h1>Some Of My Projects</h1>
+                <h1>Some Of My Non-Business Focused Projects</h1>
+                <p style={{textAlign: "center", color: "grey"}}>Backends have been disconnected to avoid fees.</p>
 
                 <div className="aProject" >
                     <a href="https://almost-vegan.herokuapp.com/">
@@ -104,7 +105,7 @@ function Portfolioitems() {
 
                 <div className="aProject" >
 
-                    <a href="https://github.com/danbushong/burger">
+                    <a href="https://bushongburger.herokuapp.com/">
                         <img alt="Burger project" src={burgerpic} width="100%" height="200px" className="thumbnail"></img>
                         <div className="projectTitle">Burger App</div>
                         <a href="https://github.com/danbushong/burger">

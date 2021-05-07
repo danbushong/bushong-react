@@ -34,7 +34,7 @@ function Aboutcard() {
                             <p>
                                 Hi! My name is Dan, welcome to my page. I live in Austin, TX, with my
                                 wife Sophia. We first met in San Diego, and then moved to Texas together in October 2020. I
-                                enjoy Jiu Jitsu, playing Oculus, watching mma, listening to audiobooks, and programming. With 2020 being
+                                enjoy Jiu Jitsu, playing Oculus, watching MMA, listening to audiobooks, and programming. With 2020 being
                                 as crazy as it was, I have been determined to pick up even more hobbies. One of my favorite
                                 things is watching the process of how to get better at something. I am a firm believer that
                                 practice and hard work eventually overtake skill, and the best way to get great at anything is
