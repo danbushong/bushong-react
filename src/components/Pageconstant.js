@@ -23,8 +23,13 @@ function Pageconstant() {
                         </li>
 
                         <li className="nav-item">
-                            <Link to="/talktoai" className={window.location.pathname === "/contact" ? "nav-link active" : "nav-link"}>TalktoAI</Link> 
+                            <Link to="/talktoai" className={window.location.pathname === "/talkToAI" ? "nav-link active" : "nav-link"}>TalktoAI</Link> 
                         </li>
+
+                        <li className="nav-item nav-link" >
+                            <a href="https://docs.google.com/document/d/e/2PACX-1vSvEhHQMiYBOu2hm4OF1_knBIyNyWweBRFcgWtniJ1v0LbXCxXGLNGgdIneRu4l7w/pub">My Resume</a>
+                        </li>
+                        
 
                     </ul>
                 </div>

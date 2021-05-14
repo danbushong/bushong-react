@@ -1,9 +1,10 @@
 import React from "react";
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { BrowserRouter as Router, Route , Link} from "react-router-dom";
 import Home from "./pages/Home"
 import Contact from "./pages/Contact"
 import Portfolio from "./pages/Portfolio"
 import TalktoAI from "./pages/TalktoAI"
+
 
 function App(){
     return (
@@ -15,6 +16,7 @@ function App(){
                 <Route exact path="/contact" component={Contact} />
                 <Route exact path="/portfolio" component={Portfolio} />
                 <Route exact path="/TalktoAI" component={TalktoAI} />
+                
             </div>
             
 
