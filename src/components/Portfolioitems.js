@@ -60,7 +60,7 @@ function Portfolioitems() {
                         
                     </a>
                     <p style={{color: "white", textAlign: "center"}}>This app was made because I got tired having to think up a new password every single time I signed up for a website.</p>
-                    <p style={{color: "white" , textAlign: "center"}}>Tech Used: HTML, CSS, and a whole bunch of If statments.</p>
+                    <p style={{color: "white" , textAlign: "center"}}>Tech Used: HTML, CSS, Git, and a whole bunch of If statments.</p>
                     
                     <a href="https://github.com/danbushong/passwordGenerator">
                             <img alt="github icon" src={githubicon} heigh="20%" width="20%" style={{float: "right"}}/>
@@ -75,7 +75,7 @@ function Portfolioitems() {
                         
                     </a>
                     <p style={{color: "white", textAlign: "center"}}>This app was made because I thought it would be a good idea to visualize my spending habits, and mess with different types of storage.</p>
-                    <p style={{color: "white" , textAlign: "center"}}>Tech Used: Mongoose, MongoDB Atlas, Compression, DotEnv, Express, Morgan, Path, Logger, LiteServer, Javascript, HTML, CSS, Node</p>
+                    <p style={{color: "white" , textAlign: "center"}}>Tech Used: Mongoose, Git, MongoDB Atlas, Compression, DotEnv, Express, Morgan, Path, Logger, LiteServer, Javascript, HTML, CSS, Node</p>
                     
                         <a href="https://github.com/danbushong/zBudgetTracker">
                             <img alt="github icon" src={githubicon} heigh="20%" width="20%" style={{float: "right"}}/>
@@ -90,7 +90,7 @@ function Portfolioitems() {
                         
                     </a>
                     <p style={{color: "white", textAlign: "center"}}>This app was made because I wanted to make a visualization of possible good deeds being done, and being done around the country.</p>
-                    <p style={{color: "white" , textAlign: "center"}}>Tech Used: SQL, MySQL, Chart.JS, Sequelize, Compression, Express</p>
+                    <p style={{color: "white" , textAlign: "center"}}>Tech Used: SQL, MySQL, Git, Chart.JS, Sequelize, Compression, Express</p>
                     
 
                     <a href="https://github.com/danbushong/project2">
@@ -104,9 +104,14 @@ function Portfolioitems() {
                     <a href="https://danbushong.github.io/gameFinder/">
                         <img alt="Game Finder project" src={gameFinder} width="100%" height="200px" className="thumbnail"></img>
                         <div className="projectTitle">gameFinder</div>
-                        <a href="https://github.com/danbushong/gameFinder">
-                            <img alt="github icon" src={githubicon} heigh="20%" width="20%" style={{float: "right"}}/>
-                        </a>
+                        
+                    </a>
+                    <p style={{color: "white", textAlign: "center"}}>This app was made because we wanted to make it easy to pick games to play based on genre.</p>
+                    <p style={{color: "white" , textAlign: "center"}}>Tech Used: JavaScript, CSS, Git, HTML, Photoshop, Soundcloud API, Youtube API, RAWG API, jQuery, GoogleFonts API, AJAX</p>
+                    
+
+                    <a href="https://github.com/danbushong/gameFinder">
+                        <img alt="github icon" src={githubicon} heigh="20%" width="20%" style={{float: "right"}}/>
                     </a>
 
                 </div>
@@ -116,10 +121,15 @@ function Portfolioitems() {
                     <a href="https://danbushong.github.io/dayPlanner/">
                         <img alt="Day Planner" src={wdScheduler} width="100%" height="200px" className="thumbnail"></img>
                         <div className="projectTitle">Day Planner</div>
-                        <a href="https://github.com/danbushong/dayPlanner">
+                        
+                    </a>
+                    <p style={{color: "white", textAlign: "center"}}>This App was made to organize my daily tasks, and keep realtime updates.</p>
+                    <p style={{color: "white" , textAlign: "center"}}>Tech Used: Bootstrap, Git, FontAwesome, Google API, jQuery, AJAX, Local Storage, JavaScript, HTML, CSS</p>
+                    
+
+                    <a href="https://github.com/danbushong/dayPlanner">
                             <img alt="github icon" src={githubicon} heigh="20%" width="20%" style={{float: "right"}}/>
                         </a>
-                    </a>
 
                 </div>
 
@@ -128,10 +138,16 @@ function Portfolioitems() {
                     <a href="https://bushongburger.herokuapp.com/">
                         <img alt="Burger project" src={burgerpic} width="100%" height="200px" className="thumbnail"></img>
                         <div className="projectTitle">Burger App</div>
-                        <a href="https://github.com/danbushong/burger">
+                        
+                    </a>
+
+                    <p style={{color: "white", textAlign: "center"}}>I thought it was funny to see what burgers people would make.</p>
+                    <p style={{color: "white" , textAlign: "center"}}>Tech Used: Bpody Parser, SQL, MySQL, Yarn, Node, Express, HandleBars, Heroku, Git.</p>
+                    <a href="https://github.com/danbushong/burger">
                             <img alt="github icon" src={githubicon} heigh="20%" width="20%" style={{float: "right"}}/>
                         </a>
-                    </a>
+
+
 
                 </div>
 
