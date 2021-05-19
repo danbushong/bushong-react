@@ -37,7 +37,7 @@ function Aboutcard() {
                                 enjoy Jiu Jitsu, playing Oculus, watching MMA, listening to audiobooks, and programming. With 2020 being
                                 as crazy as it was, I have been determined to pick up even more hobbies. One of my favorite
                                 things is watching the process of how to get better at something. I am a firm believer that
-                                practice and hard work eventually overtake skill, and the best way to get great at anything is
+                                practice and hard work eventually overtake innate talent, and the best way to get great at anything is
                                 through constant practice.
                             </p>
 
